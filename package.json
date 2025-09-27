@@ -1,0 +1,27 @@
+{
+  "name": "sunflower-growth-lab",
+  "version": "1.0.0",
+  "description": "Attention-First Growth Experiments for the Quiet Revolution",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "growth",
+    "experiments",
+    "ai",
+    "productivity",
+    "attention",
+    "sunflower"
+  ],
+  "author": "Growth Experiments Intern Candidate",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
